@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Hesam Ghorbani
 
-<!--
-**HesamGhorbaniBinarySoul87/HesamGhorbaniBinarySoul87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Solidity Developer | Smart Contract Builder | Web3 Enthusiast  
+📍 Based in Iran | 🌐 Building decentralized futures
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
+- 🪙 [AliToken](https://github.com/AliChain2025/ali-token): ERC-20 Token Contract  
+- 🎨 [BinaryNFT](https://github.com/AliChain2025/binary-nft): Minimal NFT Contract  
+- 🗳️ [BinaryDAO](https://github.com/AliChain2025/binary-dao): DAO Voting System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills
+Solidity Remix IDE Smart Contracts ERC-20 ERC-721 DAO GitHub Web3
+
+## 📫 Contact Me
+- 📧 Email: Hesam.hesamqorbani8708@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/ali-chain](https://linkedin.com/in/ali-chain)
