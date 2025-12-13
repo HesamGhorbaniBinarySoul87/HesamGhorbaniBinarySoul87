@@ -13,4 +13,4 @@ Solidity - Remix IDE - Smart Contracts - ERC-20 - ERC-721 - DAO - GitHub - Web3
 
 ## 📫 Contact Me
 - 📧 Email: Hesam.hesamqorbani8708@gmail.com
-- 💼 LinkedIn: [[https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/](https://www.linkedin.com/binarysoul-elahi-qorbani-989114394/)]
+- 💼 LinkedIn: https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/
