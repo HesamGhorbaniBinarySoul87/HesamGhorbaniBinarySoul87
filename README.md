@@ -6,8 +6,8 @@
 ## 🛠️ My Projects
 [BinaryToken](https://github.com/HesamGhorbaniBinarySoul87/binary-token): ERC-20 Token Contract  
 [BinaryNFT](https://github.com/HesamGhorbaniBinarySoul87/binary-nft): Minimal NFT Contract  
-[BinaryDAO](https://github.com/HesamGhorbaniBinarySoul87/binary-dao): DAO Voting System
-[OmniVault](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Omni Vault Contract
+[BinaryDAO](https://github.com/HesamGhorbaniBinarySoul87/binary-dao): DAO Voting System 
+[OmniVault](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Omni Vault Contract 
 
 ## 📚 Skills
 Solidity - Remix IDE - Smart Contracts - ERC-20 - ERC-721 - DAO - GitHub - Web3
