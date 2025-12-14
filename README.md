@@ -10,7 +10,7 @@
  
  [BinaryDAO](https://github.com/HesamGhorbaniBinarySoul87/binary-dao): DAO Voting System
  
- [CustomNFT](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Custom NFT
+ [CustomNFT](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Custom NFT Contract
  
  [OmniVault](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Omni Vault Contract
 
