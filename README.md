@@ -12,7 +12,7 @@
 
  [Streamline](https://github.com/HesamGhorbaniBinarySoul87/Streamline): Streamline Contract
   
- [OmniVault](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Omni Vault Contract
+ [OmniVault](https://github.com/HesamGhorbaniBinarySoul87/Omni-Vault): Omni Vault Contract
  
  [CustomNFT](https://github.com/HesamGhorbaniBinarySoul87/Custom-NFT): Custom NFT Contract
 ## 📚 Skills
