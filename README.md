@@ -24,6 +24,7 @@ I am a passionate Blockchain Developer focused on building secure, scalable, and
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=radical)
 
 ---
