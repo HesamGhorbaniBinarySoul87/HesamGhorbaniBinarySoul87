@@ -23,12 +23,12 @@ I am a passionate Blockchain Developer focused on building secure, scalable, and
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[HesamGhorbaniBinarySoul87]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[HesamGhorbaniBinarySoul87]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=radical)
+![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/]
-- **Telegram:** [t.me/BINARY_SOUL_AH]
+- **Telegram:** [@BINARY_SOUL_AH]
 -
