@@ -23,14 +23,6 @@ I am a dedicated **Blockchain Developer** and **Computer Science Student**, curr
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 
 - **Telegram:** [@BINARY_SOUL_AH](https://t.me/BINARY_SOUL_AH)
