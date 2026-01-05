@@ -1,28 +1,30 @@
-# Hi there, I'm [Hesam Qorbani] 👋
-### Senior Smart Contract Engineer | Security Researcher | Gas Optimization Expert
+# Hi there, I'm Hesam Qorbani 👋
+### Senior Solidity Engineer | DeFi Architect | Freelance Security Researcher
 
-I am a passionate Blockchain Developer focused on building secure, scalable, and highly optimized decentralized applications (dApps). My goal is to write code that is not only functional but also gas-efficient and battle-tested against vulnerabilities.
-
----
-
-### 🛠 Technical Skills
-
-- **Languages:** Solidity (Advanced), Yul (Assembly), JavaScript/TypeScript.
-- **Frameworks:** **Foundry (Forge, Cast, Anvil)** - *Preferred*, Hardhat.
-- **Security:** Reentrancy Protection (CEI Pattern), Access Control, Slither, Mythril.
-- **Specialties:** ERC-4626 (Vaults), Proxy Patterns (UUPS, Transparent), Gas Optimization.
+I am a dedicated **Blockchain Developer** and **Computer Science Student**, currently working as a **Freelance Developer**. I specialize in architecting secure, scalable, and gas-optimized smart contracts. My approach combines academic rigor with hands-on freelance experience to build battle-tested decentralized solutions.
 
 ---
 
-### 🚀 What I Bring to Your Project
+### 🛠 Technical Stack
 
-* **Security First:** I don't just write code; I audit it. I implement professional patterns to prevent hacks.
-* **Gas Efficiency:** I save money for your users by optimizing storage and using low-level Yul when necessary.
-* **Advanced Testing:** 100% test coverage using Foundry's Fuzzing and Invariant testing.
+- **Core:** Solidity (Advanced), Yul (EVM Assembly).
+- **Frameworks:** **Foundry (Forge, Cast, Anvil)** - *Primary Toolset*, Hardhat.
+- **Security:** Professional implementation of **CEI Pattern**, Access Control, and Reentrancy Guards.
+- **DeFi Standards:** ERC-4626 (Tokenized Vaults), UUPS & Transparent Proxies, ERC-20, ERC-721.
+- **Optimization:** Advanced Gas saving techniques using Storage layout optimization and `immutable`/`constant` patterns.
+
+---
+
+### 🚀 Professional Experience
+
+- **Freelance Solidity Developer:** Designing and auditing custom smart contracts for various DeFi and NFT projects.
+- **Security Focused:** Utilizing tools like **Slither** to ensure code quality and prevent common vulnerabilities.
+- **Continuous Learner:** Currently diving deep into Zero-Knowledge proofs and advanced EVM mechanics.
 
 ---
 
 ### 📊 GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=radical)
@@ -30,6 +32,10 @@ I am a passionate Blockchain Developer focused on building secure, scalable, and
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/]
-- **Telegram:** [@BINARY_SOUL_AH]
--
+
+- **Telegram:** [@BINARY_SOUL_AH](https://t.me/BINARY_SOUL_AH)
+- **LinkedIn:** [Hesam Qorbani](https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/)
+- **Email:** [hesamqorbani8708@gmail.com](mailto:hesamqorbani8708@gmail.com)
+
+---
+*Building the future of Web3, one optimized contract at a time.*
