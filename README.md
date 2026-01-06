@@ -6,6 +6,7 @@ I specialize in architecting secure and highly optimized decentralized protocols
 
 ### 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/YOUR_LINKEDIN_ID) 
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/YOUR_TELEGRAM_ID)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:your-email@gmail.com)
 
 ---
@@ -23,4 +24,11 @@ I specialize in architecting secure and highly optimized decentralized protocols
 
 ---
 
+### 📊 My GitHub Performance
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" width="300"/>
+</p>
+
+---
 *“Code is Law, but Secure Code is Justice.”*
