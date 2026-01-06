@@ -1,33 +1,21 @@
-# Hi there, I'm Hesam Qorbani 👋
-### Senior Solidity Engineer | DeFi Architect | Freelance Security Researcher
+# Hi, I'm Hesam 👋 | Senior Smart Contract Developer
 
-I am a dedicated **Blockchain Developer** and **Computer Science Student**, currently working as a **Freelance Developer**. I specialize in architecting secure, scalable, and gas-optimized smart contracts. My approach combines academic rigor with hands-on freelance experience to build battle-tested decentralized solutions.
-
----
+I specialize in architecting secure and highly optimized decentralized protocols on EVM-compatible chains. My focus is on bridging the gap between complex financial models and robust, gas-efficient Solidity implementations.
 
 ### 🛠 Technical Stack
+- **Languages:** Solidity (Expert), Vyper, JavaScript/TypeScript.
+- **Frameworks:** Foundry (Pro), Hardhat, Brownie.
+- **Standards:** ERC-20, ERC-721, ERC-1155, ERC-4626 (Tokenized Vaults).
+- **Security:** Invariant Testing, Fuzzing, Slither, Mythril.
 
-- **Core:** Solidity (Advanced), Yul (EVM Assembly).
-- **Frameworks:** **Foundry (Forge, Cast, Anvil)** - *Primary Toolset*, Hardhat.
-- **Security:** Professional implementation of **CEI Pattern**, Access Control, and Reentrancy Guards.
-- **DeFi Standards:** ERC-4626 (Tokenized Vaults), UUPS & Transparent Proxies, ERC-20, ERC-721.
-- **Optimization:** Advanced Gas saving techniques using Storage layout optimization and `immutable`/`constant` patterns.
+### 🛡️ Core Expertise
+- **DeFi Architect:** Designing yield-generating strategies and automated vault systems.
+- **Gas Magician:** Extreme optimization of contract bytecode and execution costs.
+- **Security First:** Implementing advanced access control and circuit breakers for protocol safety.
 
----
-
-### 🚀 Professional Experience
-
-- **Freelance Solidity Developer:** Designing and auditing custom smart contracts for various DeFi and NFT projects.
-- **Security Focused:** Utilizing tools like **Slither** to ensure code quality and prevent common vulnerabilities.
-- **Continuous Learner:** Currently diving deep into Zero-Knowledge proofs and advanced EVM mechanics.
-
----
-
-### 📫 Let's Connect
-
-- **Telegram:** [@BINARY_SOUL_AH](https://t.me/BINARY_SOUL_AH)
-- **LinkedIn:** [Hesam Qorbani](https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/)
-- **Email:** [hesamqorbani8708@gmail.com](mailto:hesamqorbani8708@gmail.com)
+### 📈 Stats
+![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HesamGhorbaniBinarySoul87&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamGhorbaniBinarySoul87&layout=compact&theme=dark)
 
 ---
-*Building the future of Web3, one optimized contract at a time.*
+*“Code is Law, but Secure Code is Justice.”*
