@@ -5,7 +5,7 @@ I specialize in architecting secure and highly optimized decentralized protocols
 ---
 
 ### 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](# Hi, I'm Hesam 👋 | Senior Smart Contract Developer
+(# Hi, I'm Hesam 👋 | Senior Smart Contract Developer
 
 I specialize in architecting secure and highly optimized decentralized protocols on EVM-compatible chains. My focus is on bridging the gap between complex financial models and robust, gas-efficient Solidity implementations.
 
