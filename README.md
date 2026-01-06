@@ -13,7 +13,7 @@ I specialize in architecting secure and highly optimized decentralized protocols
 
 ### 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/binarysoul-elahi-qorbani-989114394/) 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/HesamGhorbani)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/BINARY_SOUL_AH)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:HesamGhorbani@gmail.com)
 
 ---
